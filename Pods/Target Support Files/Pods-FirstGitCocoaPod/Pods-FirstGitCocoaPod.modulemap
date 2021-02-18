@@ -1,0 +1,6 @@
+module Pods_FirstGitCocoaPod {
+  umbrella header "Pods-FirstGitCocoaPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
