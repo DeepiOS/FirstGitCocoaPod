@@ -8,7 +8,7 @@ s.summary = "FirstGitCocoaPod is a demo project."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.1"
+s.version = "0.1.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -28,10 +28,7 @@ s.framework = "UIKit"
 s.dependency 'Alamofire'
 
 # 8
-s.source_files = "FirstGitCocoaPod/**/*.{swift}"
-
-# 9
-s.resources = "FirstGitCocoaPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.source_files = "FirstGitCocoaPod/**/*.{swift,h}"
 
 # 10
 s.swift_version = "5.0"
